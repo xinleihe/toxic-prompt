@@ -44,7 +44,7 @@ Evaluation:
 python 2_calculate_span.py --file_path sfs_out/task23/TSD_t5-small_True.txt
 ```
 
-For the baseline methods, we follow the implementation from [toxic-span](https://github.com/ipavlopoulos/toxic_spans)
+For the baseline methods, we follow the implementation from [toxic-span](https://github.com/ipavlopoulos/toxic_spans).
 
 ## Task 3: Detoxification
 
