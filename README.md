@@ -63,6 +63,10 @@ python 3_perspective_evaluation.py --file_path sfs_out/task23/Parallel_t5-small_
 
 Note that for the baseline methods and evaluation regarding other metrics (e.g., BLEU, SIM, PPL), we follow the implementation of [paradetox](https://github.com/s-nlp/paradetox).
 
+## Model Weights
+
+You can download the model weights and replace the `saved_model/` folder from this [Link](https://pan.baidu.com/s/1HUG58q4pkDsyxpt3hkl-Gw?pwd=smu8).
+
 ## Cite
 
 Please cite our paper if you use this code in your own work:
